@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0B4DDA10-1DF8-411D-9567-A7D6F616A34D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB777A8F-8FDF-426D-9430-652C7D7D0675"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NearbyApp/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fetchNearbyPlaces(searchText:pageSize:page:range:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CB777A8F-8FDF-426D-9430-652C7D7D0675 - 89b70e35030c9034"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NearbyApp.NetworkManager.fetchNearbyPlaces(searchText: Swift.Optional&lt;Swift.String&gt;, pageSize: Swift.Int, page: Swift.Int, completion: (Swift.Result&lt;NearbyApp.Venues, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NearbyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lalithagurujyothinandiraju/Documents/NearbyApp/NearbyApp/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "547">
+               </Location>
+               <Location
+                  uuid = "CB777A8F-8FDF-426D-9430-652C7D7D0675 - 9daad29686cd0e92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NearbyApp.NetworkManager.fetchNearbyPlaces(searchText: Swift.Optional&lt;Swift.String&gt;, pageSize: Swift.Int, page: Swift.Int, range: Swift.Int, completion: (Swift.Result&lt;NearbyApp.Venues, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NearbyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lalithagurujyothinandiraju/Documents/NearbyApp/NearbyApp/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "597">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "240FF743-18C3-4092-81DC-37630C439527"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NearbyApp/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "fetchNearbyPlaces(searchText:pageSize:page:range:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "240FF743-18C3-4092-81DC-37630C439527 - 89b70e35030c933c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NearbyApp.NetworkManager.fetchNearbyPlaces(searchText: Swift.Optional&lt;Swift.String&gt;, pageSize: Swift.Int, page: Swift.Int, completion: (Swift.Result&lt;NearbyApp.Venues, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NearbyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lalithagurujyothinandiraju/Documents/NearbyApp/NearbyApp/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "948">
+               </Location>
+               <Location
+                  uuid = "240FF743-18C3-4092-81DC-37630C439527 - 11a4a80b9e4ce2c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NearbyApp.NetworkManager.fetchNearbyPlaces(searchText: Swift.Optional&lt;Swift.String&gt;, pageSize: Swift.Int, page: Swift.Int, completion: (Swift.Result&lt;NearbyApp.Venues, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NearbyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lalithagurujyothinandiraju/Documents/NearbyApp/NearbyApp/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "226">
+               </Location>
+               <Location
+                  uuid = "240FF743-18C3-4092-81DC-37630C439527 - 9daad29686cd0d9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NearbyApp.NetworkManager.fetchNearbyPlaces(searchText: Swift.Optional&lt;Swift.String&gt;, pageSize: Swift.Int, page: Swift.Int, range: Swift.Int, completion: (Swift.Result&lt;NearbyApp.Venues, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NearbyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lalithagurujyothinandiraju/Documents/NearbyApp/NearbyApp/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "998">
+               </Location>
+               <Location
+                  uuid = "240FF743-18C3-4092-81DC-37630C439527 - 557b188cd4990bcf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NearbyApp.NetworkManager.fetchNearbyPlaces(searchText: Swift.Optional&lt;Swift.String&gt;, pageSize: Swift.Int, page: Swift.Int, range: Swift.Int, completion: (Swift.Result&lt;NearbyApp.Venues, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NearbyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lalithagurujyothinandiraju/Documents/NearbyApp/NearbyApp/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "265">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "896A455B-60D1-45C1-A089-E6487703AE5F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NearbyApp/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchNearbyPlaces(searchText:pageSize:page:range:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "896A455B-60D1-45C1-A089-E6487703AE5F - 11a4a80b9e4ce2e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NearbyApp.NetworkManager.fetchNearbyPlaces(searchText: Swift.Optional&lt;Swift.String&gt;, pageSize: Swift.Int, page: Swift.Int, completion: (Swift.Result&lt;NearbyApp.Venues, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NearbyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lalithagurujyothinandiraju/Documents/NearbyApp/NearbyApp/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "533">
+               </Location>
+               <Location
+                  uuid = "896A455B-60D1-45C1-A089-E6487703AE5F - 557b188cd4990be8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NearbyApp.NetworkManager.fetchNearbyPlaces(searchText: Swift.Optional&lt;Swift.String&gt;, pageSize: Swift.Int, page: Swift.Int, range: Swift.Int, completion: (Swift.Result&lt;NearbyApp.Venues, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NearbyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lalithagurujyothinandiraju/Documents/NearbyApp/NearbyApp/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "584">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7CB8A28F-CB24-445D-8E17-205BDA4D5512"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NearbyApp/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "fetchNearbyPlaces(searchText:pageSize:page:range:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7CB8A28F-CB24-445D-8E17-205BDA4D5512 - 11a4a80b9e4ce5d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NearbyApp.NetworkManager.fetchNearbyPlaces(searchText: Swift.Optional&lt;Swift.String&gt;, pageSize: Swift.Int, page: Swift.Int, completion: (Swift.Result&lt;NearbyApp.Venues, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NearbyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lalithagurujyothinandiraju/Documents/NearbyApp/NearbyApp/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1596">
+               </Location>
+               <Location
+                  uuid = "7CB8A28F-CB24-445D-8E17-205BDA4D5512 - 557b188cd4990cd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NearbyApp.NetworkManager.fetchNearbyPlaces(searchText: Swift.Optional&lt;Swift.String&gt;, pageSize: Swift.Int, page: Swift.Int, range: Swift.Int, completion: (Swift.Result&lt;NearbyApp.Venues, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NearbyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lalithagurujyothinandiraju/Documents/NearbyApp/NearbyApp/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "2015">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
